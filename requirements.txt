@@ -3,5 +3,6 @@ fastapi
 scikit-learn
 pandas
 numpy
+matplotlib
 uvicorn
 sqlalchemy
