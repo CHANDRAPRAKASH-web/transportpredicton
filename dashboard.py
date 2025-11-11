@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-API_URL = "https://transportpredicton.onrender.com"
+API_URL = "https://transportpredicton-2.onrender.com"
 
 st.set_page_config(page_title="Advanced Transport Dashboard", layout="wide")
 
